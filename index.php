@@ -39,6 +39,7 @@
 <form action="" method="post">
 <div class="card">
     <div class="card-body">
+        <div class="h3 text-center"> Data Information</div>
     <table class="table table-hover">
   <thead>
     <tr>
